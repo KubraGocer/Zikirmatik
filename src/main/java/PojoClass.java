@@ -47,7 +47,6 @@ public class PojoClass {
             counter = 0;
             zkr.updateCount(id, counter);
             run();
-
         }
 
         public void run (){
